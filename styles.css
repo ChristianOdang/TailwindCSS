@@ -39,7 +39,7 @@ form input {
 
 @media (max-width: 480px){
   .form-container{
-  width: 380px;
+  width: 320px;
   margin-left: auto;
   margin-right: auto;
   }
